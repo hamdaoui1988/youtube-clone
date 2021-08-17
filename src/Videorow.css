@@ -1,0 +1,23 @@
+.videorow {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.videorow__text {
+    padding-left: 15px;
+}
+
+.pronamelogo {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+h4 {
+    color:#606060;
+    font-size: small !important;
+}
+
+.videorow__tag {
+    margin-bottom: 15px;
+}
