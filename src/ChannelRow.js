@@ -1,4 +1,4 @@
-import react from "react"
+
 import './channelrow.css'
 import { Avatar } from '@material-ui/core'
 import VerifiedIcon  from "@material-ui/icons/CheckCircleOutlineOutlined"
