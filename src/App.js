@@ -14,7 +14,6 @@ import {
   Link
 } from "react-router-dom";
 
-y
 
 function App() {
   return (
